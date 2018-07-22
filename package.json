@@ -1,0 +1,20 @@
+{
+  "name": "bottindeerus",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "watch": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Exeiya",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "dotenv": "^6.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.3"
+  }
+}
